@@ -1,12 +1,7 @@
+## Мои навыки
 
-<body>
-    <h1>Мой профиль на Github</h1>
-    <ul>
-      <li><i class="fab fa-php"></i> PHP</li>
-      <li><i class="fab fa-js"></i> JavaScript</li>
-      <li><i class="fab fa-html5"></i> HTML</li>
-      <li><i class="fab fa-css3-alt"></i> CSS</li>
-      <li><i class="fab fa-laravel"></i> Laravel</li>
-    </ul>
-<script src="https://kit.fontawesome.com/a076d05399.js"></script>
-</body>
+- <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/> PHP
+- <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"/> JavaScript
+- <img src="https://img.shields.io/badge/HTML5-%23E44D26.svg?style=flat-square&logo=html5&logoColor=white"/> HTML
+- <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/> CSS
+- <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"/> Laravel
