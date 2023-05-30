@@ -8,6 +8,7 @@
 <img src="https://img.shields.io/badge/HTML5-%23E44D26.svg?style=flat-square&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-%2300F.svg?style=flat-square&logo=mysql&logoColor=white"/>
 </div>
 
 ### Фреймворки:
