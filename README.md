@@ -1,4 +1,6 @@
 
+<body>
+    <h1>Мой профиль на Github</h1>
     <ul>
       <li><i class="fab fa-php"></i> PHP</li>
       <li><i class="fab fa-js"></i> JavaScript</li>
@@ -7,7 +9,5 @@
       <li><i class="fab fa-laravel"></i> Laravel</li>
     </ul>
 
-
-  <!-- Подключение иконок Font Awesome CDN -->
-  <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-
+    <p> Мой другой контент </p>
+  </body>
