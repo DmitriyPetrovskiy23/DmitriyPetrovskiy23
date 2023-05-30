@@ -8,6 +8,5 @@
       <li><i class="fab fa-css3-alt"></i> CSS</li>
       <li><i class="fab fa-laravel"></i> Laravel</li>
     </ul>
-
-    <p> Мой другой контент </p>
-  </body>
+<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+</body>
