@@ -12,7 +12,6 @@
 ### Фреймворки:
 <div style="text-align:center;">
 <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white"/>
 <div>
 
  ### Фронтенд:
