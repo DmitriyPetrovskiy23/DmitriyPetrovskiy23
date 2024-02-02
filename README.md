@@ -21,5 +21,5 @@
 <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat-square&logo=sass&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/> 
-<img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge?style=flat-square&logo=react&logoColor=white""/>
+<img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge?style=flat-square"/>
 <div>
