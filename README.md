@@ -13,6 +13,7 @@
 <div style="text-align:center;">
 <!--<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"/>-->
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?style=flat-square&logo=fastapi&logoColor=white" />
 <div>
 
  ### Фронтенд:
