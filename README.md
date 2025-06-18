@@ -1,27 +1,27 @@
+# Привет, я Дмитрий Петровский 👋
 
-## Мои навыки
+### 💻 Backend-разработчик | Python | Сисадмин
 
-### Языки:
-<div style="text-align:center;">
-<!--<img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>-->
-<img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white"/>
-<!--<img src="https://img.shields.io/badge/SQL-%2300F.svg?style=flat-square&logo=mysql&logoColor=white"/>-->
-</div>
+---
 
-### Фреймворки:
-<div style="text-align:center;">
-<!--<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"/>-->
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?style=flat-square&logo=fastapi&logoColor=white" />
-<div>
+### 🛠️ Технологии и инструменты
 
- ### Фронтенд:
-<div style="text-align:center;">
-<img src="https://img.shields.io/badge/HTML5-%23E44D26.svg?style=flat-square&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=flat-square&logo=sass&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/> 
-<!--<img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge?style=flat-square"/>-->
-<div>
+#### 🌐 Языки программирования:
+<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+
+#### 🖥️ Операционные системы:
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+
+#### 🏭 Backend-фреймворки:
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+#### 🎨 Frontend:
+<img src="https://img.shields.io/badge/HTML5-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+---
+
+### 📊 Статистика GitHub
+
+[![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=DmitriyPetrovskiy23&show_icons=true&theme=radical)](https://github.com/DmitriyPetrovskiy23)
+
+[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyPetrovskiy23&layout=compact&theme=radical)](https://github.com/DmitriyPetrovskiy23)
