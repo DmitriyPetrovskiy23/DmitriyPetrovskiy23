@@ -12,6 +12,9 @@
 #### 🖥️ Операционные системы:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
+#### 🔗 Маршрутизаторы/Коммутаторы:
+<img src="https://img.shields.io/badge/Mikrotik-fafafa?style=for-the-badge&logo=mikrotik&logoColor=black"/><img src="https://img.shields.io/badge/Ubiquiti-005edd?style=for-the-badge&logo=ubiquiti&logoColor=white"/>
+
 #### 🏭 Backend-фреймворки:
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-%23E44D26.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 
