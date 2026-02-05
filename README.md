@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 #### 🏭 Backend-фреймворки:
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/fastapi%20-%2313988a.svg?style=for-the-badge&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Laravel-%23E44D26.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
 
 #### 🎨 Frontend:
 <img src="https://img.shields.io/badge/HTML5-%23E44D26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
